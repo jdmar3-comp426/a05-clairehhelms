@@ -1,0 +1,26 @@
+{
+  "name": "a04-clairehhelms",
+  "version": "1.0.0",
+  "description": "a04 426. building own api!",
+  "main": "database.js",
+  "dependencies": {
+    "better-sqlite3": "^7.4.4",
+    "express": "^4.17.1",
+    "md5": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a04-clairehhelms.git"
+  },
+  "author": "Claire Helms",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a04-clairehhelms/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a04-clairehhelms#readme"
+}
